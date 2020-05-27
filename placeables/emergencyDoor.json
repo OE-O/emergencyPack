@@ -1,0 +1,184 @@
+{
+  "ComponentConfigData": [
+    {
+  "$type": "POConfig_SecureAreaDivider, Assembly-CSharp"
+}
+  ],
+  "DisplayCategories": [
+    40
+  ],
+  "RequiredLevels": [],
+  "requiredAdministrators": [],
+  "Hidden": false,
+  "CreatePrice": -100.0,
+  "HourlyPrice": 0.0,
+  "HourlyPriceCategory": 0,
+  "isDestroyable": true,
+  "bWriteToMapCache": true,
+  "MaxAllowed": -1,
+  "requiresSecureArea": false,
+  "requiresSectorRebuild": false,
+  "PlacementSound": 3,
+  "snapToGridSize": 1,
+  "constructionType": 1,
+  "constructionDuration": 180.0,
+  "Properties": [
+    1,
+    18
+  ],
+  "BlockedBy": [
+    1,
+    2
+  ],
+  "width": 1,
+  "height": 1,
+  "StaffRequired": 0,
+  "Maintainable_MTBF": -1,
+  "path": "befubo/emergencyPack",
+  "rotateType": 1,
+  "frontFacing": {
+    "enabled": true,
+    "markers": [
+  {
+        "receiverType": 0,
+        "position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "orientation": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "tag": "(tag)",
+        "blocksConstruction": false,
+        "rotateEnabled": false,
+        "RelativeLevel": 0
+      },
+      {
+        "receiverType": 0,
+        "position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "orientation": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "tag": "(tag)",
+        "blocksConstruction": false,
+        "rotateEnabled": false,
+        "RelativeLevel": 0
+      }
+    ],
+    "sprites": [
+      {
+        "sortingOrder": -0.6,
+        "localPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "emergencyExit_front"
+      }
+    ]
+  },
+  "backFacing": {
+    "enabled": true,
+    "markers": [
+  {
+        "receiverType": 0,
+        "position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "orientation": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "tag": "(tag)",
+        "blocksConstruction": false,
+        "rotateEnabled": false,
+        "RelativeLevel": 0
+      },
+      {
+        "receiverType": 0,
+        "position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "orientation": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "tag": "(tag)",
+        "blocksConstruction": false,
+        "rotateEnabled": false,
+        "RelativeLevel": 0
+      }
+    ],
+    "sprites": [
+      {
+        "sortingOrder": -0.5,
+        "localPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "emergencyExit_back"
+      }
+    ]
+  },
+  "leftFacing": {
+    "enabled": true,
+    "markers": [
+      {
+        "receiverType": 0,
+        "position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "orientation": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "tag": "(tag)",
+        "blocksConstruction": false,
+        "rotateEnabled": false,
+        "RelativeLevel": 0
+      },
+      {
+        "receiverType": 0,
+        "position": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "orientation": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "tag": "(tag)",
+        "blocksConstruction": false,
+        "rotateEnabled": false,
+        "RelativeLevel": 0
+      }
+    ],
+    "sprites": [
+      {
+        "sortingOrder": -4.0,
+        "localPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "emergenceExit_side"
+      }
+    ]
+  },
+  
+  "_i18nNameKey": "befubo.emergencyPack.emergencyDoor",
+  "_i18nDescKey": "befubo.emergencyPack.emergencyDoordesc",
+  "name": "Emergency Exit"
+}

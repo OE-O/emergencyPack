@@ -1,0 +1,105 @@
+{
+  "ComponentConfigData": [],
+  "DisplayCategories": [
+    0,
+    20
+  ],
+  "RequiredLevels": [],
+  "requiredAdministrators": [],
+  "Hidden": false,
+  "CreatePrice": -50.0,
+  "HourlyPrice": 0.0,
+  "HourlyPriceCategory": 2,
+  "isDestroyable": true,
+  "bWriteToMapCache": true,
+  "MaxAllowed": -1,
+  "requiresSecureArea": false,
+  "requiresSectorRebuild": false,
+  "PlacementSound": 1,
+  "snapToGridSize": 1,
+  "constructionType": 1,
+  "constructionDuration": 40.0,
+  "Properties": [
+    1,
+	3,
+	30
+  ],
+  "BlockedBy": [
+    0,
+    1,
+	2
+  ],
+  "width": 1,
+  "height": 1,
+  "StaffRequired": 0,
+  "Maintainable_MTBF": -1,
+  "path": "befubo/emergencyPack",
+  "rotateType": 5,
+  "frontFacing": {
+    "enabled": true,
+    "markers": [],
+    "sprites": [
+      {
+        "sortingOrder": 4,
+        "localPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "emergencySignTop_front"
+      }
+    ]
+  },
+  "backFacing": {
+    "enabled": true,
+    "markers": [],
+    "sprites": [
+      {
+        "sortingOrder": 4,
+        "localPosition": {
+          "x": 0.0,
+          "y": -1.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "emergencySignTop_back"
+      }
+    ]
+  },
+  "leftFacing": {
+    "enabled": true,
+    "markers": [],
+    "sprites": [
+      {
+        "sortingOrder": 4,
+        "localPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "emergencySignTop_left"
+      }
+    ]
+  },
+  "rightFacing": {
+    "enabled": true,
+    "markers": [],
+    "sprites": [
+      {
+        "sortingOrder": 4,
+        "localPosition": {
+          "x": -1.0,
+          "y": 0.0
+        },
+        "localRotation": 0.0,
+        "relativeLevel": 0,
+        "sprite": "emergencySignTop_right"
+      }
+    ]
+  },
+  "_i18nNameKey": "befubo.emergencyPack.emergencySignTop",
+  "_i18nDescKey": "befubo.emergencyPack.emergencySignTopdesc",
+  "name": "emergencySignTop"
+}

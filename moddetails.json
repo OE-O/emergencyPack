@@ -1,0 +1,11 @@
+{
+  "Author":[
+     "befubo"
+   ],
+  "Description":"Emergency Pack",
+  "MinRequiredVersion":"2020-02-10T00:00:00", 
+  "Dependencies":[],
+  "Build":1,
+  "Version":"1.00",
+  "SteamId": 0
+}

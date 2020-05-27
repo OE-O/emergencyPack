@@ -1,0 +1,18 @@
+<befubo>
+    <emergencyPack>
+         <emergencyDoor>Emergency Exit</emergencyDoor>
+         <emergencyDoordesc>If there is death, destruction and suffering, only this door will bring you redemption.</emergencyDoordesc>
+		 
+         <emergencySignLeft>Escapesign left</emergencySignLeft>
+         <emergencySignLeftdesc>Wallsign for escaperoute left</emergencySignLeftdesc>
+		 
+         <emergencySignRight>Escapesign right</emergencySignRight>
+         <emergencySignRightdesc>Wallsign for escaperoute right</emergencySignRightdesc>
+		 
+         <emergencySignTop>Escapesign up</emergencySignTop>
+         <emergencySignTopdesc>Wallsign for escaperoute up</emergencySignTopdesc>
+		 
+         <emergencySignDown>Escapesign down</emergencySignDown>
+         <emergencySignDowndesc>Wallsign for escaperoute down</emergencySignDowndesc>
+    </emergencyPack>
+</befubo>

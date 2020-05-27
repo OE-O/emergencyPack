@@ -1,0 +1,18 @@
+<befubo>
+    <emergencyPack>
+         <emergencyDoor>Notausgang</emergencyDoor>
+         <emergencyDoordesc>Findest du Tod, Zerstörung und Leiden so bietet nur diese Türe dir Erlösung.</emergencyDoordesc>
+		 
+         <emergencySignLeft>Fluchtweg Links</emergencySignLeft>
+         <emergencySignLeftdesc>Wandbeschilderung für Fluchtrichtung Links</emergencySignLeftdesc>
+		 
+         <emergencySignRight>Fluchtweg Rechts</emergencySignRight>
+         <emergencySignRightdesc>Wandbeschilderung für Fluchtrichtung Rechts</emergencySignRightdesc>
+		 
+         <emergencySignTop>Fluchtweg Hoch</emergencySignTop>
+         <emergencySignTopdesc>Wandbeschilderung für Fluchtrichtung Hoch</emergencySignTopdesc>
+		 
+         <emergencySignDown>Fluchtweg Runter</emergencySignDown>
+         <emergencySignDowndesc>Wandbeschilderung für Fluchtrichtung Runter</emergencySignDowndesc>
+    </emergencyPack>
+</befubo>
